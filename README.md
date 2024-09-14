@@ -13,11 +13,9 @@
 🔹 [HackerRank](https://www.hackerrank.com/profile/abhishreegahlot1) (Work in Progress)
 🔹 [LeetCode](https://leetcode.com/profile/) (Work in Progress)<br>
 🔹 📧 Email: abhishreegahlot7@gmail.com
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Abhishree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishreeGahlot&count_private=true&show_icons=true&theme=dark)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishreegahlot" alt="abhishreegahlot" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
