@@ -11,7 +11,7 @@
 🔹 [LinkedIn](https://www.linkedin.com/in/abhishree-gahlot-b29050256/)
 🔹 [Kaggle](https://www.kaggle.com/abhishreegahlot)
 🔹 [HackerRank](https://www.hackerrank.com/profile/abhishreegahlot1) (Work in Progress)
-🔹 [LeetCode](https://leetcode.com/abhishreegahlot/) (Work in Progress)<br>
+🔹 [LeetCode](https://leetcode.com/profile/) (Work in Progress)<br>
 🔹 📧 Email: abhishreegahlot7@gmail.com
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Abhishree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishreeGahlot&count_private=true&show_icons=true&theme=dark)
