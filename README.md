@@ -10,7 +10,7 @@
 - 💼 Connect with me on -<br>
 🔹 [LinkedIn](https://www.linkedin.com/in/abhishree-gahlot-b29050256/)
 🔹 [Kaggle](https://www.kaggle.com/abhishreegahlot)
-🔹 [HackerRank](https://www.hackerrank.com/abhishreegahlot) (Work in Progress)
+🔹 [HackerRank](https://www.hackerrank.com/profile/abhishreegahlot1) (Work in Progress)
 🔹 [LeetCode](https://leetcode.com/abhishreegahlot/) (Work in Progress)<br>
 🔹 📧 Email: abhishreegahlot7@gmail.com
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
