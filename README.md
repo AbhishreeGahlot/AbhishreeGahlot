@@ -8,7 +8,7 @@
 - 🔧 I am currently working on building a **Machine Learning model** and expanding my technical skills.
 - 🌱 Passionate about #LearningInPublic and sharing knowledge with the community.
 - 💼 Connect with me on -<br>
-🔹 [LinkedIn(https://www.linkedin.com/in/abhishree-gahlot
+🔹 [LinkedIn(https://www.linkedin.com/in/abhishree-gahlot)
 🔹 [Kaggle](https://www.kaggle.com/abhishreegahlot)
 🔹 [HackerRank](https://www.hackerrank.com/abhishreegahlot) (Work in Progress)
 🔹 [LeetCode](https://leetcode.com/abhishreegahlot/) (Work in Progress)
