@@ -11,7 +11,7 @@
 - 💼 Connect with me on -<br>
 🔹 [LinkedIn](https://www.linkedin.com/in/abhishree-gahlot-b29050256/)
 🔹 [Kaggle](https://www.kaggle.com/abhishreegahlot)
-🔹 [Google Skill Cloud Boost](https://www.cloudskillsboost.google/public_profiles/09e7d585-8b32-42f6-8ac9-6153de526851)<br>
+🔹 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/09e7d585-8b32-42f6-8ac9-6153de526851)<br>
 🔹 [HackerRank](https://www.hackerrank.com/profile/abhishreegahlot1) (Work in Progress)
 🔹 [LeetCode](https://leetcode.com/profile/) (Work in Progress)<br>
 🔹 📧 Email: abhishreegahlot7@gmail.com
