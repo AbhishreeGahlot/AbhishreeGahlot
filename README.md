@@ -2,8 +2,8 @@
 
 - 🎓 I am currently pursuing a **Bachelor of Technology in Computer Science and Engineering**.
 - 💻 My key focus areas include:
+   **Web Development**
   - **Machine Learning**
-  - **Web Development**
   - **Cloud Computing (Google Cloud)**
   - Data Structures and Algorithms
 - 🔧 I am currently working on building a **Machine Learning model** and expanding my technical skills.
