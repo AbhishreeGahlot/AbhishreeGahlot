@@ -5,7 +5,7 @@
    **Web Development**
   - **Machine Learning**
   - **Cloud Computing (Google Cloud)**
-  - Data Structures and Algorithms
+  - <b>Data Structures and Algorithms</b>
 - 🔧 I am currently working on building a **Machine Learning model** and expanding my technical skills.
 - 🌱 Passionate about #LearningInPublic and sharing knowledge with the community.
 - 💼 Connect with me on -<br>
