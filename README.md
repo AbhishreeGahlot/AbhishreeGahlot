@@ -6,7 +6,6 @@
   - <b>Data Structures and Algorithms</b>
   - **Machine Learning**
   - **Cloud Computing (Google Cloud)**
-- 🔧 I am currently working on building a **Machine Learning model** and expanding my technical skills.
 - 🌱 Passionate about #LearningInPublic and sharing knowledge with the community.
 - 💼 Connect with me on -<br>
 🔹 [GeeksForGeeks](https://www.geeksforgeeks.org/user/abhishreer0ki/) (Work in Progress)<br>
