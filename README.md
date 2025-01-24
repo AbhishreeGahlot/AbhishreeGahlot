@@ -13,7 +13,7 @@
 🔹 [Kaggle](https://www.kaggle.com/abhishreegahlot)
 🔹 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/09e7d585-8b32-42f6-8ac9-6153de526851)<br>
 🔹 [HackerRank](https://www.hackerrank.com/profile/abhishreegahlot1) (Work in Progress)
-🔹 [LeetCode](https://leetcode.com/profile/) (Work in Progress)<br>
+🔹 [GeeksForGeeks](https://www.geeksforgeeks.org/user/abhishreer0ki/) (Work in Progress)<br>
 🔹 📧 Email: abhishreegahlot7@gmail.com
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishreegahlot" alt="abhishreegahlot" /></a> </p>
 
