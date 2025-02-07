@@ -4,7 +4,7 @@
 - 💻 My key focus areas include:<br>
   - **Full Stack Web Development [MERN]**
   - <b>Data Structures and Algorithms</b>
-  - **Machine Learning**
+  - **<B>Machine Learning* and AI</B>**
   - **Cloud Computing (Google Cloud)**
 - 🌱 Passionate about #LearningInPublic and sharing knowledge with the community.
 - 💼 Connect with me on -<br>
