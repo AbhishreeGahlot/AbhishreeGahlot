@@ -9,7 +9,7 @@
 - 🌱 Passionate about #LearningInPublic and sharing knowledge with the community.
 - 💼 Connect with me on -<br>
 🔹 [GeeksForGeeks](https://www.geeksforgeeks.org/user/abhishreer0ki/) (Work in Progress)<br>
-🔹 [LinkedIn](https://www.linkedin.com/in/abhishree-gahlot-b29050256/)
+🔹 [LinkedIn](https://www.linkedin.com/in/abhishree-gahlot/)
 🔹 [Kaggle](https://www.kaggle.com/abhishreegahlot)
 🔹 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/09e7d585-8b32-42f6-8ac9-6153de526851)<br>
 🔹 [HackerRank](https://www.hackerrank.com/profile/abhishreegahlot1) (Work in Progress)
