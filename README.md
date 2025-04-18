@@ -5,7 +5,6 @@
   - **Full Stack Web Development [MERN]**
   - <b>Data Structures and Algorithms</b>
   - **Machine Learning and AI**
-  - **Cloud Computing (Google Cloud)**
 - 🌱 Passionate about #LearningInPublic and sharing knowledge with the community.
 - 💼 Connect with me on -<br>
 🔹 [GeeksForGeeks](https://www.geeksforgeeks.org/user/abhishreer0ki/) (Work in Progress)<br>
