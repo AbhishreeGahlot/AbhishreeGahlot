@@ -1,10 +1,7 @@
 ### Hi, I'm Abhishree Gahlot! 👋
 
 - 🎓 I am currently pursuing a **Bachelor of Technology in Computer Science and Engineering**.
-- 💻 My key focus areas include:<br>
-  - **Full Stack Web Development [MERN]**
-  - <b>Data Structures and Algorithms</b>
-  - **Machine Learning and AI**
+- 💻 My key focus areas include: Software Development and AI <br>
 - 🌱 Passionate about #LearningInPublic and sharing knowledge with the community.
 - 💼 Connect with me on -<br>
 🔹 [GeeksForGeeks](https://www.geeksforgeeks.org/user/abhishreer0ki/) (Work in Progress)<br>
