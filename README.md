@@ -1,3 +1,4 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AbhishreeGahlot)
 ### Hi, I'm Abhishree Gahlot! 👋
 
 - 🎓 I am currently pursuing a **Bachelor of Technology in Computer Science and Engineering**.
